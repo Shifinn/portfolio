@@ -477,10 +477,12 @@ export default function Home() {
           <p className="max-w-2xl text-lg leading-relaxed text-slate-400 text-justify">
             I am a Computer Science and Electrical Engineering graduate from the
             dual-degree program at Sampoerna University and the University of
-            Arizona. My work sits at the intersection of thoughtful interfaces,
-            dependable backend systems, and applied intelligence. From internal
-            tools used to manage projects to computer vision and forecasting
-            research, I enjoy making complicated things feel simple.
+            Arizona. Experienced in full-stack web, mobile, and
+            hardware-integrated software development using Angular, Golang,
+            PostgreSQL, Kotlin, C, and C++. Highly adaptable and eager to
+            leverage diverse technical skills and scientific analysis to build
+            functional solutions that streamline workflows, simplify complex
+            tasks, optimize and enhance operational efficiency
           </p>
           <div className="mt-8 flex flex-wrap gap-4 md:gap-6">
             <Button href="#projects" primary>
@@ -509,7 +511,7 @@ export default function Home() {
             Focus areas
           </p>
           <p className="text-sm leading-loose text-slate-400">
-            Web platforms
+            Software development
             <br />
             AI systems
             <br />
